@@ -23,7 +23,7 @@ const NavBar = () => {
         <span className="text-red-600">Adventures</span>
       </h1>
       {/* Book Now Button */}
-      <button className="hidden md:flex items-center py-2 px-4 bg-red-600 rounded-full p-2 text-black cursor-pointer hover:bg-black hover:text-white">
+      <button className="hidden md:flex items-center py-2 px-4 bg-red-600 rounded-full  text-black cursor-pointer hover:bg-black hover:text-white">
         <BsFillCalendarFill className="mr-2" />
         Book Now
       </button>

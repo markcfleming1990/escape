@@ -9,7 +9,7 @@ const RoomCard = () => {
       {/* cards */}
       <div className="rounded-xl relative">
         {/* Overlay */}
-        <div className="absolute w-full h-full bg-black/50 rounded-xl text-white">
+        <div className="absolute w-full h-full bg-black/50 rounded-xl text-red-600">
           <p className="font-bold text-2xl px-2 pt-4">Star Voyager</p>
           <p className="px-2">A Galaxy Adventure</p>
           <button className="border-red-600 bg-red-600 text-black mx-2 absolute bottom-4">
