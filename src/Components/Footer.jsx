@@ -1,5 +1,6 @@
 import React from "react";
 import { IoLogoFacebook, IoLogoTwitter } from "react-icons/io";
+// TODO:Refactor footer for responsive interface
 
 const Footer = () => {
   return (
